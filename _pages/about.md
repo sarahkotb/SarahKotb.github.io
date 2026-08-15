@@ -2,33 +2,33 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Assistant Professor of Economics, University of Utah
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><strong>Department of Economics</strong></p>
+    <p>University of Utah</p>
+    <p>Salt Lake City, UT</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Assistant Professor in the [Department of Economics](https://economics.utah.edu/) at the University of Utah. My research sits at the intersection of health and public economics, with a focus on how low-income Americans interact with the health insurance system and the safety net. I study why eligible individuals fail to enroll in the programs designed to help them, how the design of insurance and provider payment shapes access to care, and what these frictions mean for health, financial security, and inequality.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Much of my current work centers on Medicare and Medicaid — including take-up of the Medicare Savings Programs among low-income Medicare beneficiaries, the role of Federally Qualified Health Centers and the 340B drug pricing program in the primary care safety net, and the consequences of fragmented insurance coverage for dual-eligible populations.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my Ph.D. in Health Policy (Economics track) from Harvard University in 2025, where I was advised by [Tim Layton](https://batten.virginia.edu/about/faculty/timothy-layton), [Anna Sinaiko](https://www.hsph.harvard.edu/anna-sinaiko/), and [Marcella Alsan](https://www.hks.harvard.edu/faculty/marcella-alsan). I was also an IvyPlus Visiting Student in Stanford's Department of Health Policy. Before graduate school, I graduated *summa cum laude* from Middlebury College with a B.A. in Economics.
+
+You can reach me at **sarah.kotb [at] utah.edu**. My [CV](/assets/pdf/CV_Kotb.pdf) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=4ZHMk3wAAAAJ) are also linked here.

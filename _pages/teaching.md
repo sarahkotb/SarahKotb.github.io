@@ -2,14 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses I teach and have taught.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 3
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+### University of Utah — Eccles School of Business
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+- **Principles of Econometrics for Business and Analytics.** Fall 2026.
+- **Healthcare Economics and Policy.** Spring 2026.
 
-{% include courses.liquid %}
+### Harvard University (as Teaching Assistant)
+
+- **Economics of Health Policy**, Harvard T.H. Chan School of Public Health. Primary Instructor: Anna Sinaiko. Summers 2020, 2021, 2022.
+- **Econometric Methods for Applied Research II**, Harvard Kennedy School. Primary Instructor: Tim Layton. Spring 2022.

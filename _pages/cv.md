@@ -1,12 +1,14 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
-title: CV
+title: cv
+description: Curriculum vitae
 nav: true
-nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+nav_order: 4
 ---
+
+Download my full CV [here](/assets/pdf/CV_Kotb.pdf).
+
+<iframe src="/assets/pdf/CV_Kotb.pdf" width="100%" height="900px" style="border: 1px solid #ccc;">
+  <p>Your browser does not support embedded PDFs. <a href="/assets/pdf/CV_Kotb.pdf">Download the CV instead.</a></p>
+</iframe>
